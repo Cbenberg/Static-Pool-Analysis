@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Static-Pool-Analysis';
+  title = 'Static Pool Analysis';
 }
